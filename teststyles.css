@@ -468,4 +468,11 @@ nav{
             right: 3rem;
           margin-top: 1em;
         }
+    
+              
+              .promo-texts::after {
+                bottom: 25rem;
+                left: 8%; 
+                width: 70%;
+              }
     }
